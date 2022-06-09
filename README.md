@@ -12,5 +12,4 @@ Simple Travelling website to attract customers to the company
 
 * How to run the program
 * Step-by-step bullets
-```Project on github pages https://salmaaosamaa.github.io/Responsive-Travel-Website/
-```
+* Project on github pages https://salmaaosamaa.github.io/Responsive-Travel-Website/
